@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Georgios Thaniotis
 - 👀 Remote WordPress & Full-Stack Developer (Greece)
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on various innovative and cool projects
 - 📫 How to reach me...well, I'm here!
 
